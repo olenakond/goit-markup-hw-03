@@ -70,6 +70,7 @@ img {
 .header-padding {
   padding-top: 24px;
   padding-bottom: 24px;
+  display: block;
 }
 
 .sections {
